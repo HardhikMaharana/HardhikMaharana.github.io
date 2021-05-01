@@ -1,0 +1,109 @@
+/*------------------Body Tag----------------------*/
+body{
+  margin:0;
+text-align:center;
+margin-bottom: 0;
+}
+h1 {
+  color: #11999E;
+font-family:'Prompt', sans-serif;
+}
+  h2 {
+    color: #11999E;
+font-family:'Prompt', sans-serif;
+font-size:2rem;
+    }
+     h3{
+        color:#11999E;
+  font-family:'Prompt', sans-serif;
+    font-size:1.5rem;
+}
+hr{
+  border-style:none;
+  color:#EAF6F6;
+  border-top:dotted;
+  border-width:6px;
+width:50px;
+}
+p{
+  font-family:'Open Sans', sans-serif;
+  font-weight: bold;
+}
+/*------------------Class Tag----------------------*/
+
+.name{
+    color:#66BFBF;
+  font-family: 'Kaushan Script', cursive;
+  font-size:5.312rem;
+  margin-bottom:0;
+}
+.std{
+  font-size:2rem;
+  font-weight:normal;
+  line-height:2;
+}
+
+.heading{
+  background-color:#cbf1f5;
+  padding-top:90px;
+  position:relative;
+}
+.cl1{
+  position:absolute;
+  right:500px;
+  top:60px;
+}
+.cl2{
+  position:absolute;
+}
+.social_m{
+  color: #11999E;
+  font-family:'Prompt', sans-serif;
+  font-size:1.1rem;
+  text-decoration:none;
+}
+.Code_skill{
+  display:inline-block;
+    margin:50px auto 50px auto;
+    text-align:left;
+  width:50%;
+}
+.dev{
+  display:inline-block;
+  margin:100px auto 30px auto;
+text-align:left;
+width:50%;
+}
+
+.skill_img{
+  float:right;
+  margin-left:30px;
+  width:25%
+}
+.code_img{
+  float:left;
+  margin-right:30px;
+  width:25%;
+}
+.pro_img{
+  padding-top:20px;
+  width:15%;
+}
+.connect_btn{
+  border-radius:9px;
+  border-width:0;
+  height:40px;
+  width: 200px;
+  background-color:#71c9ce;
+}
+.Social{
+  padding-top:30px;
+  background-color:#66BFBF;
+  display:inline-block;
+  line-height:3;
+  width:100%;
+}
+.copy_right{
+  color:#EAF6F6;
+}
+/*------------------Id Tag----------------------*/
